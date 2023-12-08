@@ -1,0 +1,45 @@
+{
+  "Course": [
+    {
+      "name": "Mern Stack",
+      "Duration": "3-4 months(on regular basis)",
+      "Duration1": "6-8 months(on weekend basis)",
+      "Fees": "35,550rs(fresher),50,000rs(experinced)",
+      "Subject": " Html,Css,BootStrap,JavaScript,MongoDB,ExpressJS,React JS,Node JS.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mean Stack",
+      "Duration": "3-4 months(on regular basis)",
+      "Duration1": "6-8 months(on weekend basis)",
+      "Fees": "35,550rs(fresher),50,000rs(experinced)",
+      "Subject": " Html,Css,BootStrap,JavaScript,MongoDB,React JS,Node JS."
+    },
+    {
+      "id": 3,
+      "name": "Java full Stack",
+      "Duration": "3-4 months(on regular basis)",
+      "Duration1": "6-8 months(on weekend basis)",
+      "Fees": "35,550rs(fresher),50,000rs(experinced)",
+      "Subject": " Html,Css,JavaScript,Sql,React JS,Core Java,J2ee, Hibernate & Spring ."
+    },
+    {
+      "id": 4,
+      "name": "Python full Stack",
+      "Duration": "3-4 months(on regular basis)",
+      "Duration1": "6-8 months(on weekend basis)",
+      "Fees": "35,550rs(fresher),50,000rs(experinced)",
+      "Subject": " Sql,web technology,React JS,Python."
+    },
+    {
+      "id": 5,
+      "name": "Automation Testing",
+      "Duration": "3-4 months(on regular basis)",
+      "Duration1": "6-8 months(on weekend basis)",
+      "Fees": "35,550rs(fresher),50,000rs(experinced)",
+      "Subject": " Sql,web technology,Core java,selenium."
+
+    }
+  ]
+}

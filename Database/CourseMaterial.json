@@ -1,0 +1,112 @@
+{
+  "CourseMaterial": [
+    {
+      "id": 1,
+      "CourseName": "Mern Stack",
+      "StudyMaterial": [
+        {
+          "id": 11,
+          "topic": "NodeJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 12,
+          "topic": "MondoDb",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 13,
+          "topic": "ReactJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 14,
+          "topic": "ExpressJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 15,
+          "topic": "Js",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "CourseName": "Mean Stack",
+      "StudyMaterial": [
+        {
+          "id": 21,
+          "topic": "NodeJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 22,
+          "topic": "MondoDb",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 23,
+          "topic": "AngularJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 24,
+          "topic": "ExpressJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 25,
+          "topic": "Js",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "CourseName": "Java full Stack",
+      "StudyMaterial": [
+        {
+          "id": 31,
+          "topic": "coreJava",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 32,
+          "topic": "Hibernate",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 33,
+          "topic": "ReactJs",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 34,
+          "topic": "webTechnology",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        },
+        {
+          "id": 35,
+          "topic": "SpringBoot",
+          "topicLink": "www.google.com",
+          "topicMaterial": "www.youtube.com"
+        }
+      ]
+    }
+  ]
+}

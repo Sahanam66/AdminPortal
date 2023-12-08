@@ -1,0 +1,11 @@
+#nav{
+    background-color: black;
+    color: white;
+ }
+ 
+ .item :hover{
+  
+    transition: 1s;
+    transform: scale(1.2);
+    /* box-shadow: 0.5px 0.5px #fff; */
+ }

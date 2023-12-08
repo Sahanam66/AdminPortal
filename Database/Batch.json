@@ -1,0 +1,60 @@
+{
+  "Batch": [
+    {
+      "CourseName": "Mern Stack",
+      "batch": [
+        "MR1",
+        "MR2",
+        "MR3"
+      ],
+      "Total_Students": 1,
+      "id": 1
+    },
+    {
+      "CourseName": "Mean Stack",
+      "batch": [
+        "MN1",
+        "MN2",
+        "MN3"
+      ],
+      "Total_Students": 1,
+      "id": 2
+    },
+    {
+      "CourseName": "Automation testing",
+      "batch": [
+        "A1",
+        "A2",
+        "A3"
+      ],
+      "Total_Students": 1,
+      "id": 3
+    },
+    {
+      "CourseName": "Java Full Stack",
+      "batch": [
+        "J1",
+        "J2",
+        "J3"
+      ],
+      "Total_Students": 1,
+      "id": 4
+    },
+    {
+      "CourseName": "test",
+      "batch": [
+        "test"
+      ],
+      "Total_Students": "5",
+      "id": 5
+    },
+    {
+      "CourseName": "Mern Stack",
+      "batch": [
+        "MR4"
+      ],
+      "Total_Students": "8",
+      "id": 6
+    }
+  ]
+}

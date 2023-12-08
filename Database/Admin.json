@@ -1,0 +1,25 @@
+{
+  "Admin": [
+    {
+      "id": 1,
+      "name": "Sahana",
+      "email": "sahanam669@gmail.com",
+      "phone": 9902665623,
+      "password": "sahana1"
+    },
+    {
+      "name": "Lavanya",
+      "email": "lavanya@gmail.com",
+      "phone": "8123285039",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "name": "gagana",
+      "email": "gagana@gmail.com",
+      "phone": "1234555556789",
+      "password": "qwerty",
+      "id": 3
+    }
+  ]
+}

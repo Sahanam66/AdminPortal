@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    margin: auto 3%;
+}
+.table1{
+    margin:2% 2% ;
+    word-wrap: break-word;
+}

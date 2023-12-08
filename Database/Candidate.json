@@ -1,0 +1,31 @@
+{
+  "Candidates": [
+    {
+      "name": "Lavanya",
+      "email": "lavanya22@gmail.com",
+      "phone": "8123285039",
+      "course": "Python",
+      "batch": "P1",
+      "payment": "35550",
+      "id": 2
+    },
+    {
+      "name": "Gagana ",
+      "email": "gagana@gmail.com",
+      "phone": "9902668623",
+      "course": "Mern Stack",
+      "batch": "Mr1",
+      "payment": "35500",
+      "id": 3
+    },
+    {
+      "name": "Aishwarya",
+      "email": "a@gmail.com",
+      "phone": "9902765623",
+      "course": "Mean stack",
+      "batch": "Mn1",
+      "payment": "35500",
+      "id": 4
+    }
+  ]
+}

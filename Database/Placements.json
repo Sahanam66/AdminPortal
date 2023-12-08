@@ -1,0 +1,13 @@
+{
+  "Requirements": [
+    {
+      "id": 1,
+      "company": "abc",
+      "desgination": "developer",
+      "location": "Bangalore",
+      "ctc": "3lpa",
+      "qualification": "BE-70%",
+      "skills": "java"
+    }
+  ]
+}
